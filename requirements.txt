@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+nltk
+gensim
+networkx
+visdom
+plotly
+matplotlib
+pyLDAvis
+jupyter
